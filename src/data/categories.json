@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nom": "Finance",
+    "couleur" : "green"
+  },
+  {
+    "id": 2,
+    "nom": "Sport",
+    "couleur" : "blue"
+  },
+  {
+    "id": 3,
+    "nom": "IA",
+    "couleur" : "yellow"
+  },
+  {
+    "id": 4,
+    "nom": "Culture",
+    "couleur" : "aqua"
+  },
+  {
+    "id": 5,
+    "nom": "Santé",
+    "couleur" : "pink"
+  },
+  {
+    "id": 6,
+    "nom": "Toruisme",
+    "couleur" : "red"
+  }
+]

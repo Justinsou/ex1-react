@@ -1,0 +1,12 @@
+.Menu {
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    width: 35%;
+    padding: 5px;
+    margin: 0;
+   
+  }
+}

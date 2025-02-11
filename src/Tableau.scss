@@ -1,0 +1,32 @@
+.Tableau {
+
+  &__entete {
+   
+  }
+ table {
+  
+   thead {
+    
+      tr {
+        position: relative;
+      left: 40px;
+      .padding_right {
+        gap: 80px;
+      }
+      }
+      
+      
+    }
+    // tbody {
+    //   display: flex;
+    //   flex-direction: column;
+    //   padding-left: 30px;
+    //   tr {
+    //     display: flex;
+    //     flex-direction: row;
+
+    //   }
+    // }
+  }
+ 
+}

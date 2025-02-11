@@ -1,0 +1,50 @@
+[
+  {
+    "img": "../public/avatars/1.png",
+    "produit": "Produit 1",
+    "btn": "Modifier",
+    "categorie": "IA",
+    "unites": 300,
+    "ventes": 35000
+  },
+  {
+    "img": "../public/avatars/2.png",
+    "produit": "Produit 2",
+    "btn": "Modifier",
+    "categorie": "Santé",
+    "unites": 1285,
+    "ventes": 1200000
+  },
+  {
+    "img": "../public/avatars/3.png",
+    "produit": "Produit 3",
+    "btn": "Modifier",
+    "categorie": "Sport",
+    "unites": 15,
+    "ventes": 8962
+  },
+  {
+    "img": "../public/avatars/4.png",
+    "produit": "Produit 4",
+    "btn": "Modifier",
+    "categorie": "Sport Tourisme",
+    "unites": 89,
+    "ventes": 2600000
+  },
+  {
+    "img": "../public/avatars/5.png",
+    "produit": "Produit 5",
+    "btn": "Modifier",
+    "categorie": "Tourisme",
+    "unites": 3632,
+    "ventes": 5680000
+  },
+  {
+    "img": "../public/avatars/6.png",
+    "produit": "Produit 6",
+    "btn": "Modifier",
+    "categorie": "Finance",
+    "unites": 63,
+    "ventes": 7458
+  }
+]
